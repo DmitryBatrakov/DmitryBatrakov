@@ -1,33 +1,38 @@
-# Hi, I'm Dmitry 👋
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" />
 
-Full-stack developer building web products — from landing pages to complex platforms.
-I care about clean architecture, fast delivery, and things that actually work.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dmitry+%F0%9F%91%8B;Full-stack+developer;Building+web+products+that+work" />
+</p>
+
+<p align="center">
+  Full-stack developer building web products — from landing pages to complex platforms.<br/>
+  I care about clean architecture, fast delivery, and things that actually work.
+</p>
 
 ---
 
 ### 🛠 Tech stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,redux,firebase,mongodb,aws,tailwind,scss,cloudflare" />
+  </a>
+</p>
 
 ---
 
 ### 📈 Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitryBatrakov&theme=minimal&hide_border=true&area=true)](https://github.com/DmitryBatrakov)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitryBatrakov&theme=react-dark&hide_border=true&area=true&color=38BDF8&line=0EA5E9&point=7DD3FC)](https://github.com/DmitryBatrakov)
 
 ---
 
 ### 📬 Contact
 
-dmitrybatrakov24@outlook.com
+<p align="center">
+  <a href="mailto:dmitrybatrakov24@outlook.com">
+    <img src="https://img.shields.io/badge/Email-dmitrybatrakov24@outlook.com-38BDF8?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&reversal=true" />
