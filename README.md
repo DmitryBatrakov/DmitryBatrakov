@@ -22,12 +22,9 @@ I care about clean architecture, fast delivery, and things that actually work.
 
 ---
 
-### 📊 GitHub stats
+### 📈 Activity
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DmitryBatrakov&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitryBatrakov&layout=compact&hide_border=true&theme=default" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitryBatrakov&theme=minimal&hide_border=true&area=true)](https://github.com/DmitryBatrakov)
 
 ---
 
